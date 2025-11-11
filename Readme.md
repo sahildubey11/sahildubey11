@@ -14,7 +14,7 @@
 
 
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=sahildubey1930&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
 
 
@@ -26,7 +26,7 @@
   
 </p>
 
-  ![snake gif](https://github.com/sahildubey1930/sahildubey1930/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/sahildubey1930/sahildubey11/blob/output/github-snake-dark.svg)
 
   <h2>💫 About Me:</h2>
   <p>
@@ -82,11 +82,11 @@
   <p align="left">
 
     
-  <img src="https://github-readme-stats.vercel.app/api?username=sahildubey1930&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true" height="172em" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahildubey11&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true" height="172em" alt="GitHub Stats">
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sahildubey1930&theme=chartreuse-dark&hide_border=true" height="172em" alt="GitHub Streak Stats">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sahildubey11&theme=chartreuse-dark&hide_border=true" height="172em" alt="GitHub Streak Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildubey1930&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="172em" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildubey11&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="172em" alt="Top Languages">
 
 
     
@@ -99,7 +99,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahildubey1930&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sahildubey11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
