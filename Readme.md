@@ -73,7 +73,7 @@
 
   <h2>📊 My Stats:</h2>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=sahildubey1930&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false" height="172em" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sahildubey1930&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" height="172em" alt="GitHub Stats">
     <img src="https://nirzak-streak-stats.vercel.app/?user=sahildubey1930&theme=chartreuse-dark&hide_border=false" height="172em" alt="GitHub Streak Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildubey1930&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="172em" alt="Top Languages">
   </p>
