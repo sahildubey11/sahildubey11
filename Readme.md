@@ -17,9 +17,21 @@
 
 
 
+
+
+
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey1930&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
+
+
+
+  ### 🐍 The Snake That Eats My Contributions  
+
+<p align="center">
+  <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
+  ![snake gif](https://github.com/sahildubey1930/sahildubey1930/blob/output/github-snake-dark.svg)
+</p>
   
 
   <h2>💫 About Me:</h2>
