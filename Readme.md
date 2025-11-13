@@ -11,7 +11,7 @@
 
 
 
-
+//this is profile views counters
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
@@ -19,14 +19,16 @@
 
 
 
-  ### 🐍 The Snake That Eats My Contributions  
+//famous snake game added
 
-<p align="center">
+  ### 🐍 The Snake That Eats My Contributions  
+<p align="center">  
   <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
-  
-</p>
+  </p>
 
   ![snake gif](https://github.com/sahildubey11/sahildubey11/blob/output/github-snake-dark.svg)
+
+  //about me
 
   <h2>💫 About Me:</h2>
   <p>
@@ -36,6 +38,9 @@
     🍵 Code with Chai best COMBO<br>
     ⚡ Fun Fact: At the end, everything is static! 😅
   </p>
+
+
+
 
   <h2>🌐 Socials:</h2>
   <p>
