@@ -4,9 +4,9 @@
 
 <h4 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h4>
 
-- 🎓 B.Tech CSE @ Lovely Professional University  
-- 🏅 Currently learning Competitive Programmingh Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind, TypeScript & more  
-- 🌱 Currently exploring **Web3** and **DevOps**  
+- 🎓 B.Tech CSE @ Lovely Professional University
+- 🏅 Currently learning Competitive Programmingh Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind, TypeScript & more
+- 🌱 Currently exploring **Web3** and **DevOps**
 - 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**
 - ⚡ Fun Fact: At the end, everything is static! 😅
 - 📫 Reach me: **sahildubey2004fb@gmail.com**
