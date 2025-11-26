@@ -71,7 +71,7 @@
 
 
   <h2 align="center">📊 My Stats</h2>  
-  <p align="left">
+  <p align="center">
     
   <img src="https://github-readme-stats.vercel.app/api?username=sahildubey11&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true" height="172em" alt="GitHub Stats">
 
@@ -90,7 +90,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=sahildubey11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-
-  <h3>🔝 Top Contributed Repo</h3>
-  <p><em>(Currently having chai... ☕ check back soon 😄)</em></p>
 
