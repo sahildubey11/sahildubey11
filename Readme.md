@@ -10,7 +10,7 @@
 <br>
 <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="500" align="right">  
 
-<br><br><br>
+<br><br>
 
 - 🎓 B.Tech CSE @ Lovely Professional University
 - 🏅 Currently learning Competitive Programming  
