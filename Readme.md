@@ -27,7 +27,7 @@
  </p>
 
 
-<h2>🌐 Socials:</h2>
+<h2 align="center">🌐 Socials</h2>
   <p>
     <a href="https://instagram.com/normie.shl" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
@@ -45,7 +45,7 @@
 
   
 
-  <h2 align="center">💻 Languages And Tools:</h2>
+  <h2 align="center">💻 Languages And Tools</h2>
   <p>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -70,7 +70,7 @@
   </p>
 
 
-  <h2>📊 My Stats:</h2>  
+  <h2 align="center">📊 My Stats</h2>  
   <p align="left">
     
   <img src="https://github-readme-stats.vercel.app/api?username=sahildubey11&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true" height="172em" alt="GitHub Stats">
