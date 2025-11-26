@@ -4,6 +4,9 @@
 
 <h4 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h4>
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  </p>
 - 🎓 B.Tech CSE @ Lovely Professional University
 - 🏅 Currently learning Competitive Programmingh Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind, TypeScript & more
 - 🌱 Currently exploring **Web3** and **DevOps**
@@ -12,17 +15,15 @@
 - 📫 Reach me: **sahildubey2004fb@gmail.com**
 
 <br>
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
-  </p>
-<br>
-  <img align="center" width=500  alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
-
+<p align="center">
+    <img width=500  alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
+</p>
+  
 <p align="center">
 
   ![snake gif](https://github.com/sahildubey11/sahildubey11/blob/output/github-snake-dark.svg)
  </p>
+
 
 <h2>🌐 Socials:</h2>
   <p>
