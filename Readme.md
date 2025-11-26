@@ -1,17 +1,15 @@
-
-
-  <h1 align="center">
+<h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=33&color=1A9AF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+Sahil+Dubey;A+Passionate+Programmer;Let's+Build+Something+Awesome!" alt="Typing SVG" /></a>
   </h1>
 
-  <h3 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h3>
-  
+<h4 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h4>
+
 - 🎓 B.Tech CSE @ Lovely Professional University  
 - 🏅 Currently learning Competitive Programmingh Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind, TypeScript & more  
 - 🌱 Currently exploring **Web3** and **DevOps**  
 - 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**
 - ⚡ Fun Fact: At the end, everything is static! 😅
-- 📫 Reach me: **sahildubey@gmail.com**
+- 📫 Reach me: **sahildubey2004fb@gmail.com**
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
