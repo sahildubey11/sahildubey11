@@ -7,7 +7,7 @@
   </p>
 
 <!-- RIGHT SIDE IMAGE -->
-<img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="450" align="right">  
+<img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="460" align="right">  
 
 - 🎓 B.Tech CSE @ Lovely Professional University
 - 🏅 Currently learning Competitive Programming    
