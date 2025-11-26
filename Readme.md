@@ -3,11 +3,14 @@
   </h1>
 
 <h4 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h4>
-
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
-  <div>
+
+
+
+
+
 - 🎓 B.Tech CSE @ Lovely Professional University
 - 🏅 Currently learning Competitive Programming
 - Teach Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind, TypeScript & more
@@ -15,7 +18,6 @@
 - 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**
 - ⚡ Fun Fact: At the end, everything is static! 😅
 - 📫 Reach me: **sahildubey2004fb@gmail.com**
-  </div>
 
 <br>
 <p align="center">
