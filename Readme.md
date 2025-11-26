@@ -13,30 +13,18 @@
 
 <br>
 
-
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" width=500 alt="Profile Views">
   </p>
 
   <img align="right" alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
 
-
-
-
- 
-<p align="center">  
+<p align="center">
 
   ![snake gif](https://github.com/sahildubey11/sahildubey11/blob/output/github-snake-dark.svg)
+ </p>
 
-
-  </p>
-
-
-
-
-  
-
-  <h2>🌐 Socials:</h2>
+<h2>🌐 Socials:</h2>
   <p>
     <a href="https://instagram.com/normie.shl" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
