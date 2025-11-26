@@ -10,9 +10,10 @@
 <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="460" align="right">  
 
 - 🎓 B.Tech CSE @ Lovely Professional University
-- 🏅 Currently learning Competitive Programming    
+- 🏅 Currently learning Competitive Programming  
+- Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more  
 - 🌱 Currently exploring <b>Web3</b> and <b>DevOps</b>  
-- 💬 Ask me about <b>DSA, Web Dev, AI Integration</b>  
+- 💬 Ask me about <b>DSA, Web Dev, Real-Time Systems, AI Integration</b>  
 - ⚡ Fun Fact: At the end, everything is static! 😅  
 - 📫 Reach me: <b>sahildubey2004fb@gmail.com</b>  
 
@@ -87,6 +88,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahildubey11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
