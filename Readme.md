@@ -8,21 +8,27 @@
   </p>
 
 
+<div style="display-flex">
 
-
-
+    
 - 🎓 B.Tech CSE @ Lovely Professional University
 - 🏅 Currently learning Competitive Programming
-- Teach Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind, TypeScript & more
+- Teach Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more
 - 🌱 Currently exploring **Web3** and **DevOps**
 - 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**
 - ⚡ Fun Fact: At the end, everything is static! 😅
 - 📫 Reach me: **sahildubey2004fb@gmail.com**
 
-<br>
-<p align="center">
+
+
+<p>
     <img width=500  alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
 </p>
+</div>
+
+
+<br>
+
   
 <p align="center">
 
