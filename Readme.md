@@ -7,7 +7,7 @@
   </p>
 
 <!-- RIGHT SIDE IMAGE -->
-<br>
+
 <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="500" align="right">  
 
 <br>
