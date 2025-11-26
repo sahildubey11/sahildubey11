@@ -7,13 +7,13 @@
   <h3 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h3>
 
     <h2>💫 About Me:</h2>
-  <p align="center">
+
     - 🧠 About Me<br>
     - 👨‍💻 All of my projects are available on Github <br>
     - 🏅 Currently learning Competitive Programming<br>
     - 🍵 Code with Chai best COMBO<br>
     - ⚡ Fun Fact: At the end, everything is static! 😅
-  </p>
+  
   
 
   <p align="left">
