@@ -14,10 +14,10 @@
 <br>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" width=500 alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
 
-  <img align="right" alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
+  <img align="right" width=500  alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
 
 <p align="center">
 
