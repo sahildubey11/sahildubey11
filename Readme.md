@@ -13,15 +13,13 @@
     <td valign="top">
 
 <!-- LEFT SIDE — BULLETS (no table borders) -->
-    
-- 🎓 B.Tech CSE @ Lovely Professional University  
+- 🎓 B.Tech CSE @ Lovely Professional University
 - 🏅 Currently learning Competitive Programming  
 - Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more  
 - 🌱 Currently exploring **Web3** and **DevOps**  
 - 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**  
 - ⚡ Fun Fact: At the end, everything is static! 😅  
 - 📫 Reach me: **sahildubey2004fb@gmail.com**  
-
     </td>
 
     <td valign="top" align="right">
