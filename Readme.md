@@ -10,28 +10,30 @@
     
 <table>
   <tr>
-    <td>
+    <td valign="top">
 
-<!-- LEFT SIDE — BULLETS -->
+<!-- LEFT SIDE — BULLETS (no table borders) -->
     
 - 🎓 B.Tech CSE @ Lovely Professional University  
 - 🏅 Currently learning Competitive Programming  
-- Teach Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more  
+- Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more  
 - 🌱 Currently exploring **Web3** and **DevOps**  
 - 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**  
 - ⚡ Fun Fact: At the end, everything is static! 😅  
 - 📫 Reach me: **sahildubey2004fb@gmail.com**  
 
     </td>
-    <td>
 
-<!-- RIGHT SIDE — IMAGE -->
+    <td valign="top" align="right">
+
+<!-- RIGHT SIDE — GIF -->
 
 <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="300" />
 
     </td>
   </tr>
 </table>
+
 
 
 <br>
