@@ -16,8 +16,8 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
-
-  <img align="right" width=500  alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
+<br>
+  <img align="center" width=500  alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
 
 <p align="center">
 
