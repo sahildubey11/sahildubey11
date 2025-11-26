@@ -5,19 +5,19 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
+  <br>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- LEFT SIDE: BULLETS -->
   <div>
 
-- 🎓 B.Tech CSE @ Lovely Professional University  
+- 🎓 B.Tech CSE @ Lovely Professional University 
 - 🏅 Currently learning Competitive Programming  
 - Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more  
 - 🌱 Currently exploring <b>Web3</b> and <b>DevOps</b>  
 - 💬 Ask me about <b>DSA, Web Dev, Real-Time Systems, AI Integration</b>  
 - ⚡ Fun Fact: At the end, everything is static! 😅  
 - 📫 Reach me: <b>sahildubey2004fb@gmail.com</b>  
-
   </div>
 
   <!-- RIGHT SIDE: GIF -->
@@ -26,7 +26,6 @@
   </div>
 
 </div>
-
 <br>
 
   
