@@ -24,17 +24,12 @@
   ![snake gif](https://github.com/sahildubey11/sahildubey11/blob/output/github-snake-dark.svg)
  </p>
 
-<h2>🧩 Connect with me</h2>
-  <p>
-     <a href="https://linkedin.com/in/sahildubey11" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahildubey11" height="30" width="40" />
-        </a>
-      <a href="https://instagram.com/normie.shl" target="_blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="normie.shl" height="30" width="40" />
-    </a>
-   
-   
-  </p>
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<!-- <a href="https://github.com/sahildubey11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sahildubey11" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/sahildubey11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahildubey11" height="30" width="40" /></a>
+<a href="https://instagram.com/normie.shl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="normie.shl" height="30" width="40" /></a>
+</p>
 
   <h2 align="center">💻 Tech Stack</h2>
   <p align="center">
