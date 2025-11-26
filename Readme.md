@@ -9,7 +9,6 @@
 
 
 <div style="display-flex">
-
     
 - 🎓 B.Tech CSE @ Lovely Professional University
 - 🏅 Currently learning Competitive Programming
@@ -19,10 +18,19 @@
 - ⚡ Fun Fact: At the end, everything is static! 😅
 - 📫 Reach me: **sahildubey2004fb@gmail.com**
 
-
-    <img width=400  alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
-
 </div>
+
+<img width=500  alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
+
+
+
+
+    
+
+    
+
+
+
 
 
 <br>
