@@ -5,26 +5,27 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
-<table>
-  <tr>
-    <td valign="top" width="70%">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<ul>
-<li>🎓 B.Tech CSE @ Lovely Professional University</li>
-<li>🏅 Currently learning Competitive Programming</li>
-<li>🌱 Currently exploring <b>Web3</b> and <b>DevOps</b></li>
-<li>💬 Ask me about <b>DSA, Web Dev, AI Integration</b></li>
-<li>⚡ Fun Fact: At the end, everything is static! 😅</li>
-<li>📫 Reach me: <b>sahildubey2004fb@gmail.com</b></li>
-</ul>
+  <!-- LEFT SIDE: BULLETS -->
+  <div>
 
-</td>
+- 🎓 B.Tech CSE @ Lovely Professional University  
+- 🏅 Currently learning Competitive Programming  
+- Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more  
+- 🌱 Currently exploring <b>Web3</b> and <b>DevOps</b>  
+- 💬 Ask me about <b>DSA, Web Dev, Real-Time Systems, AI Integration</b>  
+- ⚡ Fun Fact: At the end, everything is static! 😅  
+- 📫 Reach me: <b>sahildubey2004fb@gmail.com</b>  
 
-<td valign="top" align="right" width="40%">
-      <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="460">
-    </td>
-  </tr>
-</table>
+  </div>
+
+  <!-- RIGHT SIDE: GIF -->
+  <div>
+    <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="300">
+  </div>
+
+</div>
 
 <br>
 
