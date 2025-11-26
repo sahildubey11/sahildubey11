@@ -24,20 +24,15 @@
   ![snake gif](https://github.com/sahildubey11/sahildubey11/blob/output/github-snake-dark.svg)
  </p>
 
-<h2>🌐 Connect with me</h2>
+<h2>🧩 Connect with me</h2>
   <p>
     <a href="https://instagram.com/normie.shl" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="normie.shl" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/sahildubey11" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahildubey11" height="30" width="40" />
     </a>
-    <a href="https://codepen.io/Sahil-Dubey" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen">
-    </a>
-    <a href="mailto:sahildubey2004fb@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-    </a>
+   
   </p>
 
   <h2 align="center">💻 Tech Stack</h2>
