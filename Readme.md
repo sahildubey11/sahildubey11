@@ -15,13 +15,13 @@
 
 
 
-
-  ### 🐍 The Snake That Eats My Contributions  
+ 
 <p align="center">  
-  <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
-  </p>
 
   ![snake gif](https://github.com/sahildubey11/sahildubey11/blob/output/github-snake-dark.svg)
+
+
+  </p>
 
 
 
