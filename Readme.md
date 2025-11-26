@@ -19,19 +19,10 @@
 - 📫 Reach me: **sahildubey2004fb@gmail.com**
 
 </div>
-
+<p align= "center">
 <img width=500  alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
-
-
-
-
     
-
-    
-
-
-
-
+</p>
 
 <br>
 
