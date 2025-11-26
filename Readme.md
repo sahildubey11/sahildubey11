@@ -12,9 +12,8 @@
 <ul>
 <li>🎓 B.Tech CSE @ Lovely Professional University</li>
 <li>🏅 Currently learning Competitive Programming</li>
-<li>Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more</li>
 <li>🌱 Currently exploring <b>Web3</b> and <b>DevOps</b></li>
-<li>💬 Ask me about <b>DSA, Web Dev, Real-Time Systems, AI Integration</b></li>
+<li>💬 Ask me about <b>DSA, Web Dev, AI Integration</b></li>
 <li>⚡ Fun Fact: At the end, everything is static! 😅</li>
 <li>📫 Reach me: <b>sahildubey2004fb@gmail.com</b></li>
 </ul>
