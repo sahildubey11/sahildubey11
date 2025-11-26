@@ -21,7 +21,7 @@
 </td>
 
 <td valign="top" align="right" width="40%">
-      <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="400">
+      <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="500">
     </td>
   </tr>
 </table>
