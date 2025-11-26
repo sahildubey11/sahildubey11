@@ -14,12 +14,10 @@
 - 🌱 Currently exploring <b>Web3</b> and <b>DevOps</b>  
 - 💬 Ask me about <b>DSA, Web Dev, AI Integration</b>  
 - ⚡ Fun Fact: At the end, everything is static! 😅  
-- 📫 Reach me: <b>sahildubey2004fb@gmail.com</b>  
+- 📫 Reach me: <b>sahildubey2004fb@gmail.com</b> 
 
-  <br>
-  <br>
-  <br>
-  <br>
+<br>
+ 
 <p align="center">
 
   ![snake gif](https://github.com/sahildubey11/sahildubey11/blob/output/github-snake-dark.svg)
