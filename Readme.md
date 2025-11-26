@@ -1,13 +1,10 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=33&color=1A9AF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+Sahil+Dubey;A+Passionate+Programmer;Let's+Build+Something+Awesome!" alt="Typing SVG" /></a>
   </h1>
-
 <h4 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h4>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
-
-    
 <table>
   <tr>
     <td valign="top" width="60%">
@@ -22,16 +19,13 @@
 <li>📫 Reach me: <b>sahildubey2004fb@gmail.com</b></li>
 </ul>
 
-    </td>
+</td>
 
-    <td valign="top" align="right" width="40%">
+<td valign="top" align="right" width="40%">
       <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="300">
     </td>
   </tr>
 </table>
-
-
-
 
 <br>
 
