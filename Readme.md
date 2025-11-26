@@ -15,11 +15,6 @@
 - 💬 Ask me about <b>DSA, Web Dev, AI Integration</b>  
 - ⚡ Fun Fact: At the end, everything is static! 😅  
 - 📫 Reach me: <b>sahildubey2004fb@gmail.com</b> 
-<br>
-<br>
-<br>
-<br>
-
  
 <p align="center">
 
@@ -27,7 +22,7 @@
  </p>
 
 <h2 align="center">🌐 Socials</h2>
-  <p>
+  <p align="center">
     <a href="https://instagram.com/normie.shl" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
