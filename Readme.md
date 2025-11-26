@@ -7,7 +7,7 @@
   </p>
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="70%">
 
 <ul>
 <li>🎓 B.Tech CSE @ Lovely Professional University</li>
@@ -21,7 +21,7 @@
 </td>
 
 <td valign="top" align="right" width="40%">
-      <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="300">
+      <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="400">
     </td>
   </tr>
 </table>
