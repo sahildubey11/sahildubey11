@@ -1,7 +1,7 @@
 
 
   <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=33&color=1A9AF7&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+Sahil+Dubey;A+Passionate+Programmer;Let's+Build+Something+Awesome!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=33&color=1A9AF7&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile!;I'm+Sahil+Dubey;A+Passionate+Programmer;Let's+Build+Something+Awesome!" alt="Typing SVG" /></a>
   </h1>
 
   <h3 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h3>
