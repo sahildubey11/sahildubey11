@@ -38,7 +38,7 @@
     <a href="https://instagram.com/normie.shl" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://linkedin.com/in/sahildubey10" target="_blank">
+    <a href="https://linkedin.com/in/sahildubey11" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://codepen.io/Sahil-Dubey" target="_blank">
