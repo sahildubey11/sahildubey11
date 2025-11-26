@@ -10,27 +10,26 @@
     
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="60%">
 
-<!-- LEFT SIDE — BULLETS (no table borders) -->
-- 🎓 B.Tech CSE @ Lovely Professional University
-- 🏅 Currently learning Competitive Programming  
-- Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more  
-- 🌱 Currently exploring **Web3** and **DevOps**  
-- 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**  
-- ⚡ Fun Fact: At the end, everything is static! 😅  
-- 📫 Reach me: **sahildubey2004fb@gmail.com**  
+<ul>
+<li>🎓 B.Tech CSE @ Lovely Professional University</li>
+<li>🏅 Currently learning Competitive Programming</li>
+<li>Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more</li>
+<li>🌱 Currently exploring <b>Web3</b> and <b>DevOps</b></li>
+<li>💬 Ask me about <b>DSA, Web Dev, Real-Time Systems, AI Integration</b></li>
+<li>⚡ Fun Fact: At the end, everything is static! 😅</li>
+<li>📫 Reach me: <b>sahildubey2004fb@gmail.com</b></li>
+</ul>
+
     </td>
 
-    <td valign="top" align="right">
-
-<!-- RIGHT SIDE — GIF -->
-
-<img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="300" />
-
+    <td valign="top" align="right" width="40%">
+      <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="300">
     </td>
   </tr>
 </table>
+
 
 
 
