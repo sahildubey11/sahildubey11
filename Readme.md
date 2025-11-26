@@ -26,12 +26,13 @@
 
 <h2>🧩 Connect with me</h2>
   <p>
-    <a href="https://instagram.com/normie.shl" target="_blank">
+     <a href="https://linkedin.com/in/sahildubey11" target="_blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahildubey11" height="30" width="40" />
+        </a>
+      <a href="https://instagram.com/normie.shl" target="_blank">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="normie.shl" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/sahildubey11" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahildubey11" height="30" width="40" />
-    </a>
+   
    
   </p>
 
