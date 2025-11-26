@@ -21,7 +21,6 @@
   ![snake gif](https://github.com/sahildubey11/sahildubey11/blob/output/github-snake-dark.svg)
  </p>
 
-
 <h2 align="center">🌐 Socials</h2>
   <p>
     <a href="https://instagram.com/normie.shl" target="_blank">
@@ -37,8 +36,6 @@
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
-
-  
 
   <h2 align="center">💻 Tech Stack</h2>
   <p>
@@ -63,19 +60,6 @@
     <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe">
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom">
   </p>
-
-
-  <h2 align="center">📊 My Stats</h2>  
-  <p align="center">
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=sahildubey11&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true" height="172em" alt="GitHub Stats">
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sahildubey11&theme=chartreuse-dark&hide_border=true" height="172em" alt="GitHub Streak Stats">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildubey11&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="172em" alt="Top Languages">    
-  </p>
-   
-
 
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
