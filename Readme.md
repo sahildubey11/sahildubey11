@@ -7,22 +7,32 @@
     <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
 
-
-<div style="display-flex">
     
-- 🎓 B.Tech CSE @ Lovely Professional University
-- 🏅 Currently learning Competitive Programming
-- Teach Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more
-- 🌱 Currently exploring **Web3** and **DevOps**
-- 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**
-- ⚡ Fun Fact: At the end, everything is static! 😅
-- 📫 Reach me: **sahildubey2004fb@gmail.com**
+<table>
+  <tr>
+    <td>
 
-</div>
-<p align= "right">
-<img width=500  alt="Coding" width="300" src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif">
+<!-- LEFT SIDE — BULLETS -->
     
-</p>
+- 🎓 B.Tech CSE @ Lovely Professional University  
+- 🏅 Currently learning Competitive Programming  
+- Teach Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind & more  
+- 🌱 Currently exploring **Web3** and **DevOps**  
+- 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**  
+- ⚡ Fun Fact: At the end, everything is static! 😅  
+- 📫 Reach me: **sahildubey2004fb@gmail.com**  
+
+    </td>
+    <td>
+
+<!-- RIGHT SIDE — IMAGE -->
+
+<img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="300" />
+
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
