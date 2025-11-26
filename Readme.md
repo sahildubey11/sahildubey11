@@ -15,8 +15,6 @@
 - 💬 Ask me about <b>DSA, Web Dev, AI Integration</b>  
 - ⚡ Fun Fact: At the end, everything is static! 😅  
 - 📫 Reach me: <b>sahildubey2004fb@gmail.com</b> 
-
-<br>
 <br>
 <br>
 <br>
