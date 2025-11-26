@@ -7,6 +7,9 @@
   </p>
 
 <!-- RIGHT SIDE IMAGE -->
+<br>
+<br>
+<br>
 <img src="https://github.com/sahildubey11/sahildubey11/blob/main/coding-mario.gif" width="500" align="right">  
 
 - 🎓 B.Tech CSE @ Lovely Professional University
