@@ -16,7 +16,8 @@
 - 🏅 Currently learning Competitive Programming  
 - 🌱 Currently exploring <b>Web3</b> and <b>DevOps</b>  
 - 💬 Ask me about <b>DSA, Web Dev, AI Integration</b>  
-- ⚡ Fun Fact: At the end, everything is static! 😅  
+- ⚡ Fun Fact: At the end, everything is static! 😅
+- 🌐 Portfolio: https://sahildubey.vercel.app/  
 - 📫 Reach me: <b>sahildubey2004fb@gmail.com</b> 
  
 <p align="center">
